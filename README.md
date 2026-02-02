@@ -11,10 +11,10 @@
 / source .venv/bin/activate
 
 * Install the requirements(libs) of the project
-* 
+  
 / pip install -r requirements.txt
 
-** Run app.py file **
+* Run app.py file 
 
 ## For this application you may have installed or a docker image running a Keycloak Server
 
