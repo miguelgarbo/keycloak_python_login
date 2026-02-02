@@ -20,7 +20,7 @@ Documentation of using keycloak with docker :
 https://www.keycloak.org/getting-started/getting-started-docker
 
 Documentation of installing keycloak on your own machine
-https://www.keycloak.org/guides
+https://www.keycloak.org/downloads
 
 ## For this application you may have installed or a docker image running a Keycloak Server
 
